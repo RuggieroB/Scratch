@@ -10,4 +10,6 @@
 	
 	- "Secondo_Progetto": Gioco: Ping-Pong.
 
-	_ "Terszo_Progetto": Calcolo area di un quadrato.
+	- "Terzo_Progetto": Calcolo area di un quadrato.
+
+	- "Quarto_Progetto": Incremento variabile "A".
