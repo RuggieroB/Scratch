@@ -15,3 +15,5 @@
 	- "Quarto_Progetto": Incremento variabile "A".
 	
 	- "Quinto_Progetto": Dato un numero in input, compreso tra "-10" e "10", calcolare il cubo se positivo, altrimenti calcolare il quadrato.
+
+	- "Sesto_Progetto": Spostamento su assi cartesiani e disegno.
